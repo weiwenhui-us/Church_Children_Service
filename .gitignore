@@ -1,0 +1,7 @@
+node_modules/
+output/
+weekly/
+*.pptx
+*.pdf
+*.xlsx
+.DS_Store
