@@ -15,6 +15,13 @@ Non-sensitive project constants and configuration. Never store passwords, API ke
 4. YouTube general search
 - Always verify a candidate has actual singing (not narration/instruments only) and get user approval before finalizing.
 
+### BEST hymn source — church's own song pages (added 2026-07-22)
+- `https://children.churchinanaheim.org/songs` lists the church's curated children's songs, tagged to the lessons (search the page text for the lesson theme, e.g. "commandment", "obey", "honor").
+- Each song page (e.g. `/c1l1_35.html`) has BOTH the full authoritative lyrics AND an embedded church-hosted MP3 (`/wp-content/uploads/….mp3`) on the same page → lyrics match the link by construction. Use the PAGE URL as the play-button link (has player + lyrics + download).
+- This is the most reliable way to satisfy "full matching lyrics + working link." Prefer it over YouTube/repository for hymns.
+- Caveat: repository (173.68.175.102) commandment-series / custom-tune songs often have MISSING audio (bare `NNNN.mp3` ref, "does not exist") — repository is fine for lyrics but verify audio before linking.
+- Always curl-verify page (200) and MP3 (206, audio/mpeg) are live before building.
+
 ### Color Palette (PptxGenJS, no `#` prefix) — `const C` in build_slides.js
 - blue `4A90D9`, dkBlue `2C5F8A`, ltBlue `E8F4FD`
 - yellow `F5C542`, ltYellow `FFF8E7`

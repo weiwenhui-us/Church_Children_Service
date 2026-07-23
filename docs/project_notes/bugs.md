@@ -37,6 +37,24 @@
 - **Solution**: When practice point exists, reduce kids card height to 3.8, text area uses `autoFit: true`, and practice point bar sits at `0.95 + cardH + 0.1`
 - **Prevention**: Always account for additional elements (practice point, footer) when calculating content area height
 
+### 2026-07-22 - Hymn Lyrics Clipped on Two-Column Song Slide
+- **Issue**: Long hymns showed only a partial set of lyrics — text overflowed the card and was visually cut off
+- **Root Cause**: The `lyricsLeft`/`lyricsRight` path in build_slides.js used a fixed 11pt font with NO `fit:'shrink'` in a fixed 4.0"-tall box (the `lyricsCentered` path already had shrink; the two-column path did not)
+- **Solution**: Added a shared `colFont` that scales down by line count (11→10→9pt) plus `fit:'shrink'` as a backstop on both this-week and last-week two-column blocks. Full lyrics now always fit. Verified with the 5-verse Acts medley (last week's song) rendering complete.
+- **Prevention**: Any lyric/text box that can grow with content must have `fit:'shrink'` (or autoFit) — never a fixed font in a fixed box.
+
+### 2026-07-22 - Dead / Mismatched Hymn Links & Wrong Lyrics
+- **Issue**: Recurring — song links dead or pointing to a different song than the printed lyrics; lyrics sourced separately from the link so they didn't match
+- **Root Cause**: `thisWeekSong.youtubeUrl` was chosen independently of the lyrics (e.g. repository Play links with missing audio, or unverified YouTube). Repository commandment-series songs (custom tunes) have MISSING server audio (`audioMissing`, bare `NNNN.mp3` ref). AI-generated YouTube kids' songs have no reliable lyrics.
+- **Solution**: Use the church's own song pages at `children.churchinanaheim.org/songs` — each page has BOTH authoritative full lyrics AND a church-hosted MP3 on the SAME page, so lyrics match the link by construction. Verify the page + MP3 are live (HTTP 200 / 206 audio/mpeg) before use.
+- **Prevention**: Never set the song link and lyrics from different sources. Prefer a single source that carries both. Always curl-verify the link before building.
+
+### 2026-07-22 - Church Song Page Shows Only Partial Lyrics (verse 1 of N)
+- **Issue**: The church song page for "You Shall Have No Other Gods Before Me" (`c1l1_35.html`) displays only ONE verse inline, but the RECORDING actually sings TWO verses (commandments 1 AND 2). Trusting the page text gave incomplete lyrics.
+- **Root Cause**: Many church song pages show only the first verse as text; the full lyric set exists only in the audio recording (no "Text"/PDF download on some pages).
+- **Solution**: Transcribe the official recording to get the complete lyric. Installed `ffmpeg` + `whisper-cpp` (`whisper-cli`). Workflow: `curl` the page's MP3 → `ffmpeg -i x.mp3 -ar 16000 -ac 1 x.wav` → `whisper-cli -m ggml-small.en.bin -f x.wav`. small.en model is accurate enough for short songs (base.en garbles some words). Clean up obvious mishearings against the biblical text (e.g. "great minimum edges" → "graven images").
+- **Prevention**: When a song page shows a short/single verse, ALWAYS transcribe the recording to confirm you have every verse before putting lyrics on the slide. Don't assume the inline page text is complete.
+
 ### 2026-04-08 - Role Play Script PDF Overwritten Each Week
 - **Issue**: Every week's `role_play_script.pdf` and `.html` saved to the same filename in `weekly/`, overwriting previous weeks' scripts
 - **Root Cause**: Hardcoded filename `role_play_script.pdf` in build_slides.js with no week-specific identifier

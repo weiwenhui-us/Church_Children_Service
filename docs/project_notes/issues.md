@@ -58,5 +58,23 @@
 - **Status**: Completed
 - **Description**: Renamed schedule item #3 to "Lesson & Associated Work" and adjusted times for items #3–#5 (final: Craft 10:00–10:30, Hymn 10:30–11:00, Lesson & Associated Work 11:00–11:30, Gym 11:30–11:50, Outdoor 11:50–12:15). Created `scripts/gen_schedule_only.js` to produce a single-slide `output/Schedule_Only.pptx` reusing the deck's styling.
 
+### 2026-07-22 - Week 38 (Moses—The Ten Commandments 1)
+- **Status**: Completed
+- **Description**: 12-slide deck for "Moses—The Ten Commandments (1)" (Exodus 20, first five commandments; memory verse John 14:15). Lesson URL block-4-week-38. Images from FreeBibleImages "Moses at Mount Sinai" (SPI). Gym movie = TBTMS "Moses, God, and the Mountain" (rMjLA9NIj98). Output: `output/Week38_Moses_TenCommandments1.pptx`, config `output/Week38_config.json`.
+- **Hymn (per user request to fix recurring hymn errors)**: "You Shall Have No Other Gods Before Me" from the church song page `children.churchinanaheim.org/c1l1_35.html` — full authoritative lyrics + live church-hosted MP3 on the same page (lyrics match link by construction). Verified live before build.
+- **Two code fixes** (see bugs.md 2026-07-22): (1) two-column lyric renderer now auto-scales font + `fit:'shrink'` so full lyrics never clip; (2) adopted church song pages as the authoritative hymn source. Verified rendering of both the short centered hymn and the 5-verse two-column last-week song — all lyrics fully visible.
+
+### 2026-07-22 - Week 39 (Moses—The Ten Commandments 2)
+- **Status**: Completed
+- **Description**: 12-slide deck for "Moses—The Ten Commandments (2)" (last five commandments 6–10; Exodus 20; memory verse Leviticus 22:31). Page-1 image from FreeBibleImages "Moses at Mount Sinai" (frame 26, Moses proclaiming God's words). Gym movie reuses TBTMS "Moses, God, and the Mountain" (rMjLA9NIj98) as a recap of all Ten Words. Output: `output/Week39_Moses_TenCommandments2.pptx`, config `output/Week39_config.json`.
+- **Hymn**: "Therefore Keep the Commandments of Jehovah" (`children.churchinanaheim.org/c3l3_06.html`) — near word-for-word match to memory verse Lev 22:31. Full lyrics CONFIRMED complete by transcribing the recording (whisper-cli small.en); recording = one verse sung twice, matching the page text. Verified page + MP3 live before build.
+- **Note**: Applied week-38 lessons — sourced hymn from church song page and transcribed the MP3 to confirm all verses. Also auditioned "Trust and Obey" (c1l3_07, chorus only) and rejected "It's Better to Obey" (c5l1_08 — transcribes as instrumental/no clear singing). Last-week song slide carries forward week 38's "You Shall Have No Other Gods Before Me" with the full 2-verse lyrics.
+
+### 2026-07-22 - Week 40 (The Tabernacle—God's Dwelling Place)
+- **Status**: Completed
+- **Description**: 12-slide deck for "The Tabernacle—God's Dwelling Place" (Exodus 25–27; memory verse Psalm 27:4). Page-1 image from FreeBibleImages "Moses and the Tabernacle" (frame 30, the built tabernacle + courtyard). Gym movie = TBTMS "The Tabernacle of God" (aVW9uNYBXkM, 6:03). Output: `output/Week40_Tabernacle_GodsDwellingPlace.pptx`, config `output/Week40_config.json`.
+- **Hymn**: "We Are the Household of God" (`children.churchinanaheim.org/we-are-the-household-of-god.html`) — ties the tabernacle (God's dwelling) to His people being His household. Full lyrics CONFIRMED complete by transcribing the recording. Verified page + MP3 live.
+- **Note**: Rejected "We are in a house" (about the natural family, off-theme). Auditioned "In the Whole Universe God Has a Household" (good, kid-friendly) as the alternate. Last-week slide carries forward week 39's "Therefore Keep the Commandments of Jehovah" (centered lyrics). Block 4 (weeks 31–40) now complete.
+
 ### Untracked weekly decks (configs/PPTX present, no detailed session log)
 - `output/` also contains Week 29, 30, 31, 34, 35, 37 PPTX/configs generated in sessions not captured in this log. Listed here so the gap is visible; details can be reconstructed from the config JSON files if needed.

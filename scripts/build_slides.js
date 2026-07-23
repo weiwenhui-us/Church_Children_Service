@@ -145,22 +145,29 @@ if (subtitleParts.length > 0) {
   s2.addText(subtitleParts.join('  |  '), { x: 0.8, y: 0.98, w: 8.5, h: 0.25, fontSize: 10, italic: true, color: C.gray, fontFace: 'Arial' });
 }
 
+// Shared column font size — scale down as lyrics get longer, plus fit:'shrink'
+// as a backstop so FULL lyrics always fit the card (never clipped).
+const countLines = arr => (arr || []).reduce((n, l) => n + (l.text.match(/\n/g) || []).length + 1, 0);
+const maxColLines = Math.max(countLines(config.thisWeekSong.lyricsLeft), countLines(config.thisWeekSong.lyricsRight));
+const colFont = maxColLines > 26 ? 9 : maxColLines > 20 ? 10 : 11;
+const colSpacing = maxColLines > 26 ? 1.0 : 1.15;
+
 // Lyrics — left column
 if (config.thisWeekSong.lyricsLeft) {
   const leftRuns = config.thisWeekSong.lyricsLeft.map(line => {
-    if (line.bold) return { text: line.text + '\n', options: { bold: true, fontSize: 11, color: C.blue } };
-    return { text: line.text + '\n', options: { fontSize: 11, color: C.text } };
+    if (line.bold) return { text: line.text + '\n', options: { bold: true, fontSize: colFont, color: C.blue } };
+    return { text: line.text + '\n', options: { fontSize: colFont, color: C.text } };
   });
-  s2.addText(leftRuns, { x: 0.7, y: 1.25, w: 4.2, h: 4.0, fontFace: 'Arial', valign: 'top', lineSpacingMultiple: 1.15 });
+  s2.addText(leftRuns, { x: 0.7, y: 1.25, w: 4.2, h: 4.0, fontFace: 'Arial', valign: 'top', lineSpacingMultiple: colSpacing, fit: 'shrink' });
 }
 
 // Lyrics — right column
 if (config.thisWeekSong.lyricsRight) {
   const rightRuns = config.thisWeekSong.lyricsRight.map(line => {
-    if (line.bold) return { text: line.text + '\n', options: { bold: true, fontSize: 11, color: C.blue } };
-    return { text: line.text + '\n', options: { fontSize: 11, color: C.text } };
+    if (line.bold) return { text: line.text + '\n', options: { bold: true, fontSize: colFont, color: C.blue } };
+    return { text: line.text + '\n', options: { fontSize: colFont, color: C.text } };
   });
-  s2.addText(rightRuns, { x: 5.0, y: 1.25, w: 4.4, h: 4.0, fontFace: 'Arial', valign: 'top', lineSpacingMultiple: 1.15 });
+  s2.addText(rightRuns, { x: 5.0, y: 1.25, w: 4.4, h: 4.0, fontFace: 'Arial', valign: 'top', lineSpacingMultiple: colSpacing, fit: 'shrink' });
 }
 
 // Single-column lyrics (for simpler songs)
@@ -208,19 +215,22 @@ if (config.lastWeekSong.lyrics) {
 }
 
 // Left/right column fallback for last week song
+const lwMaxCol = Math.max(countLines(config.lastWeekSong.lyricsLeft), countLines(config.lastWeekSong.lyricsRight));
+const lwColFont = lwMaxCol > 26 ? 9 : lwMaxCol > 20 ? 10 : 11;
+const lwColSpacing = lwMaxCol > 26 ? 1.0 : 1.15;
 if (config.lastWeekSong.lyricsLeft) {
   const leftRuns = config.lastWeekSong.lyricsLeft.map(line => {
-    if (line.bold) return { text: line.text + '\n', options: { bold: true, fontSize: 11, color: C.blue } };
-    return { text: line.text + '\n', options: { fontSize: 11, color: C.text } };
+    if (line.bold) return { text: line.text + '\n', options: { bold: true, fontSize: lwColFont, color: C.blue } };
+    return { text: line.text + '\n', options: { fontSize: lwColFont, color: C.text } };
   });
-  s3.addText(leftRuns, { x: 0.7, y: 1.25, w: 4.2, h: 4.0, fontFace: 'Arial', valign: 'top', lineSpacingMultiple: 1.15 });
+  s3.addText(leftRuns, { x: 0.7, y: 1.25, w: 4.2, h: 4.0, fontFace: 'Arial', valign: 'top', lineSpacingMultiple: lwColSpacing, fit: 'shrink' });
 }
 if (config.lastWeekSong.lyricsRight) {
   const rightRuns = config.lastWeekSong.lyricsRight.map(line => {
-    if (line.bold) return { text: line.text + '\n', options: { bold: true, fontSize: 11, color: C.blue } };
-    return { text: line.text + '\n', options: { fontSize: 11, color: C.text } };
+    if (line.bold) return { text: line.text + '\n', options: { bold: true, fontSize: lwColFont, color: C.blue } };
+    return { text: line.text + '\n', options: { fontSize: lwColFont, color: C.text } };
   });
-  s3.addText(rightRuns, { x: 5.0, y: 1.25, w: 4.4, h: 4.0, fontFace: 'Arial', valign: 'top', lineSpacingMultiple: 1.15 });
+  s3.addText(rightRuns, { x: 5.0, y: 1.25, w: 4.4, h: 4.0, fontFace: 'Arial', valign: 'top', lineSpacingMultiple: lwColSpacing, fit: 'shrink' });
 }
 
 addFooter(s3, C.yellow);
