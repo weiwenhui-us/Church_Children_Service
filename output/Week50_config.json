@@ -1,0 +1,379 @@
+{
+  "weekNumber": 50,
+  "level": "intermediate",
+  "block": 5,
+  "title": {
+    "topic": "The Story of the Book of Ruth",
+    "scripture": "Ruth 1—4  |  Memory Verse: Psalm 25:12",
+    "point": "We can be wise in the choices we make."
+  },
+  "thisWeekSong": {
+    "title": "Choices, Choices",
+    "tuneRef": "Billy Boy",
+    "youtubeUrl": "https://children.churchinanaheim.org/c5l2_06.html",
+    "lyricsLeft": [
+      {
+        "text": "Verse 1",
+        "bold": true
+      },
+      {
+        "text": "Choices, choices,"
+      },
+      {
+        "text": "We must all make choices —"
+      },
+      {
+        "text": "Big ones, small ones,"
+      },
+      {
+        "text": "Choices every day."
+      },
+      {
+        "text": "Choices, choices,"
+      },
+      {
+        "text": "We must all make choices —"
+      },
+      {
+        "text": "Don’t choose foolishly,"
+      },
+      {
+        "text": "But choose God’s way."
+      }
+    ],
+    "lyricsRight": [
+      {
+        "text": "Verse 2",
+        "bold": true
+      },
+      {
+        "text": "Choices, choices,"
+      },
+      {
+        "text": "We must all make choices —"
+      },
+      {
+        "text": "Don’t be jealous"
+      },
+      {
+        "text": "Of what another has."
+      },
+      {
+        "text": "Choices, choices,"
+      },
+      {
+        "text": "We must all make choices —"
+      },
+      {
+        "text": "Just be satisfied"
+      },
+      {
+        "text": "With what you have."
+      }
+    ]
+  },
+  "lastWeekSong": {
+    "title": "Be Strong and of Good Courage",
+    "source": "Children Service Song  |  churchinanaheim.org",
+    "youtubeUrl": "https://children.churchinanaheim.org/be-strong-and-of-good-courage.html",
+    "lyrics": [
+      {
+        "text": "Be strong and of good courage,\nDo not be afraid, neither be dismayed,",
+        "bold": true
+      },
+      {
+        "text": "For Jehovah your God is with you, Wherever you go. (Joshua 1:9)",
+        "bold": false
+      }
+    ]
+  },
+  "lastWeekReview": {
+    "weekNumber": 49,
+    "title": "Samson—His Might",
+    "scripture": "Judges 13—15",
+    "memoryVerse": "Ephesians 6:10",
+    "bullets": [
+      "Samson was set apart to God from birth as a NAZARITE — vowed to follow the Lord absolutely and never to cut his hair.",
+      "God EMPOWERED Samson — “empower” means to make strong or to give strength to.",
+      "A young LION roared against Samson, but God strengthened him and he tore it apart with his bare hands!",
+      "Another time God empowered Samson to defeat THIRTY men all by himself — one against thirty!",
+      "Once captured and tied with ropes, the ropes MELTED away and Samson conquered ONE THOUSAND Philistines with a jawbone!",
+      "God is still STRENGTHENING us today — He gives us the might we need to do what seems too hard."
+    ],
+    "discussion": "Was there a moment this week that felt too hard — speaking up for what is right, or doing the right thing when it was scary? Ask God for His might, like Samson, and share how it went!",
+    "verseQuote": "“Finally, be empowered in the Lord and in the might of His strength.” — Ephesians 6:10"
+  },
+  "lesson": {
+    "lessonUrl": "https://children.churchinanaheim.org/intermediate-level-block-5-week-50.html",
+    "pages": [
+      {
+        "kidsContent": [
+          {
+            "text": "A Story of Choices",
+            "bold": true,
+            "color": "4A90D9"
+          },
+          {
+            "text": "The book of Ruth is only four chapters, but it is a wonderful story about making CHOICES! We make choices every day — what to wear, whether to obey, whom to be friends with. There are big choices, small choices, good choices and poor choices.",
+            "bold": false
+          },
+          {
+            "text": "It began with a man named Elimelech. There was a famine in Bethlehem, and instead of talking to God, he made a POOR choice — he took his wife Naomi and two sons to Moab, a land that had nothing to do with God. There Elimelech died, and later his two sons died too.",
+            "bold": false
+          },
+          {
+            "text": "Now Naomi had a choice. She made a very GOOD choice — to leave Moab and return to Bethlehem, to the people of God. Her daughter-in-law Orpah chose to stay in Moab, but Ruth chose to follow Naomi. Ruth said, “Wherever you go, I will go… your people will be my people, and your God will be my God.”",
+            "bold": false
+          },
+          {
+            "text": "In Bethlehem, Ruth chose to go GLEAN in the fields to care for herself and Naomi. She gleaned in the field of Boaz, a wealthy relative who chose to be a man of God. Boaz chose to act honorably and married Ruth. Their son was Obed — an ancestor of Jesus!",
+            "bold": false
+          },
+          {
+            "text": "🌟 Naomi, Ruth, and Boaz all chose to take the way of God — and God brought a wonderful blessing through their good choices!",
+            "bold": true,
+            "color": "E8725A"
+          }
+        ],
+        "image": {
+          "path": "weekly/w50_img1.jpg",
+          "caption": "Ruth gleaning in the fields of Boaz"
+        }
+      },
+      {
+        "kidsContent": [
+          {
+            "text": "Choosing God’s Way",
+            "bold": true,
+            "color": "4A90D9"
+          },
+          {
+            "text": "Just like the people in Ruth’s story, we make choices every single day — big ones and small ones. Almost everything we do requires a choice!",
+            "bold": false
+          },
+          {
+            "text": "Some choices are good choices, and some are poor choices. Elimelech chose to go his own way without God; but Naomi, Ruth, and Boaz chose God’s way — and God blessed them.",
+            "bold": false
+          },
+          {
+            "text": "When we fear God — that means to love and honor Him — He instructs us in the way we should choose. And while we are young, our parents teach us how to make good choices, so that when we grow up we will keep choosing what is best.",
+            "bold": false
+          },
+          {
+            "text": "🌟 This week, let’s think about every choice we make, so that they will all be good choices that take the way of God!",
+            "bold": true,
+            "color": "E8725A"
+          }
+        ]
+      }
+    ],
+    "practicePoint": "This week, stop and think before you choose! When you have a choice to make — big or small — ask, “Which way is God’s way?” Choose to obey your parents and take the good way, just like Ruth, Naomi, and Boaz.",
+    "teacherScripture": "Ruth 1—4"
+  },
+  "memoryVerse": {
+    "reference": "Psalm 25:12",
+    "text": "Who then is the man who fears Jehovah? / Him will He instruct concerning the way that he should choose.",
+    "application": "We make choices every day — big ones and small ones! When we fear God (that means we love and honor Him), He teaches us the good way to choose. Just like Ruth, Naomi, and Boaz, we can choose God’s way and be blessed."
+  },
+  "activity": {
+    "title": "🛤️ Two Roads — Choosing God’s Way",
+    "duration": "15-20 min",
+    "parts": [
+      {
+        "text": "Materials: Two large signs — “God’s Way” and “My Own Way” — placed on opposite sides of the room, plus a set of simple choice cards (situations kids face).",
+        "bold": true
+      },
+      {
+        "text": "Setup: Stand the two signs on opposite walls. Explain: every day we come to choices, like a fork in the road. One way follows God; the other goes our own way.",
+        "bold": false
+      },
+      {
+        "text": "Round 1 — Read the Choice: The leader reads a situation card (e.g., “Your mom asks you to help, but your show is on”). Kids RUN to the sign showing the good choice.",
+        "bold": true
+      },
+      {
+        "text": "Round 2 — Why That Way?: After each card, ask one child why God’s way is the better choice. Remember Ruth — she chose to follow Naomi and God’s people!",
+        "bold": false
+      },
+      {
+        "text": "Round 3 — Big and Small: Mix in big choices (whom to follow) and small ones (sharing a toy). Kids see that ALL choices matter — good choices become a happy habit.",
+        "bold": true
+      },
+      {
+        "text": "📖 Connection: Naomi, Ruth, and Boaz all chose God’s way. When we fear God, He instructs us in the way we should choose!",
+        "bold": true
+      }
+    ],
+    "rolePlayScript": [
+      {
+        "direction": true,
+        "text": "Scene: A dusty road leaving the land of Moab. Naomi, Ruth, and Orpah have packed their bags. Naomi turns to say goodbye."
+      },
+      {
+        "role": "Narrator"
+      },
+      {
+        "text": "After many sad years in Moab, Naomi decided to return to Bethlehem, to the people of God. Her two daughters-in-law, Orpah and Ruth, started out with her on the road.\n"
+      },
+      {
+        "role": "Naomi"
+      },
+      {
+        "text": "My dear daughters, you have been so kind to me. But go back now — return to your mothers’ homes here in Moab. May God be good to you.\n"
+      },
+      {
+        "role": "Orpah"
+      },
+      {
+        "text": "But Naomi, we want to go with you! We love you.\n"
+      },
+      {
+        "role": "Naomi"
+      },
+      {
+        "text": "I am old, and I have nothing left to give you. Your lives are here, in Moab. Go back, and find rest.\n"
+      },
+      {
+        "role": "Narrator"
+      },
+      {
+        "text": "Now Orpah and Ruth each had a choice to make. Would they stay in the land they had always known, or follow Naomi to a strange country?\n"
+      },
+      {
+        "role": "Orpah"
+      },
+      {
+        "text": "You are right, Naomi. This is my home. Goodbye… I will go back to my family.\n"
+      },
+      {
+        "direction": true,
+        "text": "Orpah kisses Naomi, weeps, and turns back down the road toward Moab."
+      },
+      {
+        "role": "Naomi"
+      },
+      {
+        "text": "See, Ruth? Orpah has gone back to her people and her gods. Go with her — go back too.\n"
+      },
+      {
+        "role": "Ruth"
+      },
+      {
+        "text": "No, Naomi. Do not urge me to leave you! Wherever you go, I will go; and wherever you dwell, I will dwell. Your people will be my people, and your God will be my God!\n"
+      },
+      {
+        "role": "Naomi"
+      },
+      {
+        "text": "Ruth… you would leave everything — your family, your friends, your country — just to follow me and my God?\n"
+      },
+      {
+        "role": "Ruth"
+      },
+      {
+        "text": "Yes! I choose the true God and His people. That is the way I want to walk.\n"
+      },
+      {
+        "role": "Narrator"
+      },
+      {
+        "text": "So Ruth made the better choice. She followed Naomi to Bethlehem — and there God blessed her, gave her Boaz, and made her an ancestor of the Lord Jesus. All because she chose God’s way!\n"
+      },
+      {
+        "role": "Everyone"
+      },
+      {
+        "text": "We can be wise in the choices we make — we choose God’s way!"
+      }
+    ]
+  },
+  "gym": {
+    "optionA": {
+      "title": "🛤️ God’s Way or My Own Way",
+      "description": [
+        {
+          "text": "Setup: Mark two “roads” across the space — one side is “God’s Way,” the other is “My Own Way.” Kids gather in the middle.",
+          "bold": false
+        },
+        {
+          "text": "Rules: The leader calls out a choice (“Obey right away” vs. “Grumble and delay”). Kids run to the side that follows God’s way as fast as they can.",
+          "bold": false
+        },
+        {
+          "text": "Out: The last one to reach the right side — or anyone who runs to the wrong side — does 5 jumping jacks and jumps back in.",
+          "bold": false
+        },
+        {
+          "text": "Twist: Speed up the calls and mix big choices with small ones. Every choice counts, so keep watching and choose wisely!",
+          "bold": false
+        },
+        {
+          "text": "📖 Connection: Ruth chose God’s way over her own way. When we fear God, He instructs us in the way we should choose!",
+          "bold": true
+        },
+        {
+          "text": "Materials: Two side signs, open space",
+          "bold": false
+        }
+      ]
+    },
+    "optionB": {
+      "title": "🌾 Gleaning Relay",
+      "description": [
+        {
+          "text": "Setup: Scatter soft “grain” (bean bags, crumpled paper, or foam balls) across a “field.” Split kids into two “gleaner” teams like Ruth.",
+          "bold": false
+        },
+        {
+          "text": "Rules: One gleaner from each team runs into the field, picks up ONE piece of grain, and carries it back to the family basket before the next runs.",
+          "bold": false
+        },
+        {
+          "text": "Scoring: The team that works hard and gathers the most grain to care for their family wins the round — just like Ruth cared for Naomi.",
+          "bold": false
+        },
+        {
+          "text": "Twist: Leave the “corners” of the field for the last round — remind kids gleaning was God’s way of caring for the poor and the widow.",
+          "bold": false
+        },
+        {
+          "text": "📖 Connection: Ruth chose to work hard gleaning to care for Naomi. Good choices bless the people God has placed around us!",
+          "bold": true
+        },
+        {
+          "text": "Materials: Bean bags or foam balls, two baskets, open space",
+          "bold": false
+        }
+      ]
+    }
+  },
+  "outdoor": {
+    "alternative": {
+      "title": "🧭 The Two Paths Trek",
+      "description": [
+        {
+          "text": "Mark two simple paths outdoors — one leads to a “Bethlehem” gathering spot (God’s way), the other loops back to “Moab” (my own way).",
+          "bold": false
+        },
+        {
+          "text": "Goal: At each fork along the trail, a leader reads a choice. The group decides together which path follows God’s way and walks it.",
+          "bold": false
+        },
+        {
+          "text": "Rule: Stay together like Ruth stayed with Naomi — nobody wanders off to their own spot. We travel God’s way as one family.",
+          "bold": false
+        },
+        {
+          "text": "Finish: Gather at “Bethlehem” and thank God that He instructs us in the way we should choose.",
+          "bold": false
+        },
+        {
+          "text": "Materials: A few path markers or cones, an open outdoor space",
+          "bold": false
+        }
+      ]
+    },
+    "tip": "🛤️ The lesson is wise choices: we face choices every day, and when we fear God He teaches us the good way. Help kids see that Ruth, Naomi, and Boaz were blessed because they chose God’s way — and they can too."
+  },
+  "outputFilename": "Week50_TheStoryOfRuth.pptx"
+}

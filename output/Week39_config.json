@@ -1,0 +1,371 @@
+{
+  "weekNumber": 39,
+  "level": "intermediate",
+  "block": 4,
+  "title": {
+    "topic": "Moses—The Ten Commandments (2)",
+    "scripture": "Exodus 20  |  Memory Verse: Leviticus 22:31",
+    "point": "God's commandments show us how to live as His proper people — obeying His words in the small things and the big things."
+  },
+  "thisWeekSong": {
+    "title": "Therefore Keep the Commandments of Jehovah",
+    "scriptureRef": "Deuteronomy 8:6",
+    "youtubeUrl": "https://children.churchinanaheim.org/c3l3_06.html",
+    "lyricsCentered": [
+      {
+        "text": "Therefore keep the commandments of Jehovah,\nTherefore keep the commandments of Jehovah,\nYour God, your God,",
+        "bold": true
+      },
+      {
+        "text": "Walking in His ways, walking in His ways,\nand fearing Him.",
+        "bold": false
+      },
+      {
+        "text": "God's authority is in the family,\nin society, in the church.\nI will fear Him.",
+        "bold": false
+      }
+    ]
+  },
+  "lastWeekSong": {
+    "title": "You Shall Have No Other Gods Before Me",
+    "source": "Children Service Song  |  churchinanaheim.org",
+    "youtubeUrl": "https://children.churchinanaheim.org/c1l1_35.html",
+    "lyricsLeft": [
+      {
+        "text": "Verse 1 — First Commandment",
+        "bold": true
+      },
+      {
+        "text": "You shall have no other gods before Me."
+      },
+      {
+        "text": "You shall have no other gods before Me."
+      },
+      {
+        "text": "I'm in love with all of you,"
+      },
+      {
+        "text": "and I want you to be true."
+      },
+      {
+        "text": "You shall have no other gods before Me."
+      }
+    ],
+    "lyricsRight": [
+      {
+        "text": "Verse 2 — Second Commandment",
+        "bold": true
+      },
+      {
+        "text": "You shall not make any graven images."
+      },
+      {
+        "text": "You shall not make any graven images."
+      },
+      {
+        "text": "You shall not bow down to them,"
+      },
+      {
+        "text": "neither serve nor honor them."
+      },
+      {
+        "text": "You shall not make any graven images."
+      }
+    ]
+  },
+  "lastWeekReview": {
+    "weekNumber": 38,
+    "title": "Moses—The Ten Commandments (1)",
+    "scripture": "Exodus 20",
+    "memoryVerse": "John 14:15",
+    "bullets": [
+      "God called Moses up Mount Sinai — with thunder, lightning, and a loud trumpet, everyone knew God was there!",
+      "God gave the Ten Commandments so His people would know how to live AND know what HE is really like.",
+      "1. No other gods    2. No idols    3. Don't misuse God's name",
+      "4. Remember the Sabbath    5. Honor your father and mother",
+      "The first five commandments are all about loving and honoring GOD first.",
+      "God's commandments are like a window into His heart!"
+    ],
+    "discussion": "Which of the first five commandments did you practice this week? What did it show you about God? Share your story!",
+    "verseQuote": "\"If you love Me, you will keep My commandments.\" — John 14:15"
+  },
+  "lesson": {
+    "lessonUrl": "https://children.churchinanaheim.org/intermediate-level-block-4-week-39.html",
+    "pages": [
+      {
+        "kidsContent": [
+          {
+            "text": "God's Words to Us",
+            "bold": true,
+            "color": "4A90D9"
+          },
+          {
+            "text": "Last week we learned the FIRST five commandments — they are all about loving and honoring GOD.",
+            "bold": false
+          },
+          {
+            "text": "This week we learn the LAST five commandments. These are about how we treat OTHER people!",
+            "bold": false
+          },
+          {
+            "text": "God's laws aren't just a long to-do list. They are God speaking to us — showing us how His people should live.",
+            "bold": false
+          },
+          {
+            "text": "Because we belong to God, like the children of Israel, we can learn to behave like God's people — in the small things AND the big things.",
+            "bold": false
+          },
+          {
+            "text": "🌟 God gave us rules to show us how proper people should behave — and to make us more like Him!",
+            "bold": true,
+            "color": "E8725A"
+          }
+        ],
+        "image": {
+          "path": "weekly/w39_img1.jpg",
+          "caption": "Moses gives God's words to the people"
+        }
+      },
+      {
+        "kidsContent": [
+          {
+            "text": "The Last Five Commandments",
+            "bold": true,
+            "color": "4A90D9"
+          },
+          {
+            "text": "6.  Do not kill.  —  God is the One who gives life, so no person should take another's life.",
+            "bold": false
+          },
+          {
+            "text": "7.  Do not commit adultery.  —  A husband and wife belong only to each other and stay faithful.",
+            "bold": false
+          },
+          {
+            "text": "8.  Do not steal.  —  Never take what isn't yours. God gives us all we need, so there's no reason to steal.",
+            "bold": false
+          },
+          {
+            "text": "9.  Do not give false testimony.  —  Don't lie about others or spread unkind, untrue things — love your neighbor instead.",
+            "bold": false
+          },
+          {
+            "text": "10.  Do not covet.  —  Don't be jealous of what others have; envy is like stealing in your heart. Trust God to give you what you need!",
+            "bold": false
+          },
+          {
+            "text": "🌟 The last five commandments show us how to love the people around us — that's how God's people live!",
+            "bold": true,
+            "color": "E8725A"
+          }
+        ]
+      }
+    ],
+    "practicePoint": "This week, pick ONE of the last five commandments you find hard, and practice it on purpose — no unkind or untrue words, nothing taken, no jealousy. Come share how it went next week!",
+    "teacherScripture": "Exodus 20; Leviticus 22:31"
+  },
+  "memoryVerse": {
+    "reference": "Leviticus 22:31",
+    "text": "Therefore you shall keep My commandments and do them; I am Jehovah.",
+    "application": "God doesn't just want us to KNOW His commandments — He wants us to DO them. When we obey His words, we grow into His proper people who look more like Him."
+  },
+  "activity": {
+    "title": "⚖️ Proper Person Challenge — Right or Wrong?",
+    "duration": "15-20 min",
+    "parts": [
+      {
+        "text": "Materials: Scenario cards, a GREEN 'God's way' sign and a RED 'Not God's way' sign, the five commandment cards (6–10)",
+        "bold": true
+      },
+      {
+        "text": "Setup: Post commandments 6–10 on the wall. Put the GREEN sign on one side of the room and the RED sign on the other.",
+        "bold": false
+      },
+      {
+        "text": "Round 1 — Right or Wrong?: The leader reads a real-life scenario (e.g. 'You find $5 on the floor at school and quietly keep it'). Kids run to GREEN or RED and name which commandment it matches.",
+        "bold": true
+      },
+      {
+        "text": "Round 2 — Fix It: For each 'wrong' scenario, kids act out the RIGHT thing a proper person would do instead.",
+        "bold": false
+      },
+      {
+        "text": "Round 3 — Heart Check: For coveting (#10), each kid names ONE thing they're thankful for instead of being jealous.",
+        "bold": true
+      },
+      {
+        "text": "📖 Connection: God's commandments teach us to love the people around us — keeping them is how God's people live!",
+        "bold": true
+      }
+    ],
+    "rolePlayScript": [
+      {
+        "direction": true,
+        "text": "Scene: A school hallway. A group of friends is whispering. A new girl stands alone nearby."
+      },
+      {
+        "role": "Narrator"
+      },
+      {
+        "text": "One day at school, one of the girls started saying things about another girl — things that were not very nice, and not even true.\n"
+      },
+      {
+        "role": "Friend 1"
+      },
+      {
+        "text": "Did you hear about the new girl? I heard she did something really embarrassing. Pass it on!\n"
+      },
+      {
+        "role": "Friend 2"
+      },
+      {
+        "text": "Really? I'll tell everyone! This is such good gossip.\n"
+      },
+      {
+        "role": "Me"
+      },
+      {
+        "text": "I don't really know her… but everyone's saying it, so I'll say it too, I guess.\n"
+      },
+      {
+        "direction": true,
+        "text": "The rumor spreads around the whole school. Later, 'Me' actually talks to the new girl."
+      },
+      {
+        "role": "New Girl"
+      },
+      {
+        "text": "Everyone keeps whispering about me… but none of it is true. It was just a misunderstanding. It really hurts.\n"
+      },
+      {
+        "role": "Me"
+      },
+      {
+        "text": "Oh no. I repeated it without even knowing if it was true. I broke the ninth commandment — I gave false testimony against my neighbor.\n"
+      },
+      {
+        "role": "Narrator"
+      },
+      {
+        "text": "God tells us not to give false testimony against our neighbor — and our neighbor is ANYONE around us: classmates, friends, even our brothers and sisters.\n"
+      },
+      {
+        "role": "Me"
+      },
+      {
+        "text": "I'm so sorry. I'm going to tell everyone the truth and stop the rumor. God wants me to love my neighbor, not hurt her.\n"
+      },
+      {
+        "role": "New Girl"
+      },
+      {
+        "text": "Thank you. That means so much to me.\n"
+      },
+      {
+        "direction": true,
+        "text": "All kids together:"
+      },
+      {
+        "role": "Everyone"
+      },
+      {
+        "text": "God's people keep His commandments and DO them — we speak the truth and love our neighbor!"
+      }
+    ]
+  },
+  "gym": {
+    "optionA": {
+      "title": "🏃 Commandment Sort Relay",
+      "description": [
+        {
+          "text": "Setup: Two teams. At the far end, scatter cards — some describe keeping a commandment (6–10), some describe breaking one.",
+          "bold": false
+        },
+        {
+          "text": "Rules: One runner at a time races down, grabs ONE card, reads it, and drops it in the 'KEEP IT' or 'BREAK IT' bucket back at base.",
+          "bold": false
+        },
+        {
+          "text": "Scoring: Each correctly sorted card = 1 point. Wrong bucket = no point.",
+          "bold": false
+        },
+        {
+          "text": "Bonus: For a 'KEEP IT' card, the runner shouts which commandment number (6–10) it matches for a bonus point.",
+          "bold": false
+        },
+        {
+          "text": "📖 Connection: A proper person can tell right from wrong — and chooses to DO what God says!",
+          "bold": true
+        },
+        {
+          "text": "Materials: Scenario cards, two buckets/boxes, cones",
+          "bold": false
+        }
+      ]
+    },
+    "optionB": {
+      "title": "🟢🔴 God's Way — Green Light, Red Light",
+      "description": [
+        {
+          "text": "Setup: Kids line up at one end; a leader stands at the far end as the 'caller.'",
+          "bold": false
+        },
+        {
+          "text": "Rules: On 'GREEN — God's way!' the caller names a good action (tell the truth, share, honor parents) and kids move forward. On 'RED — not God's way!' the caller names a wrong action (lie, steal, be jealous) and everyone must FREEZE.",
+          "bold": false
+        },
+        {
+          "text": "Out: Anyone who moves on a RED action goes back a few steps.",
+          "bold": false
+        },
+        {
+          "text": "Winner: First to reach the caller and tag the wall wins and becomes the next caller.",
+          "bold": false
+        },
+        {
+          "text": "📖 Connection: We 'go' toward what God commands and 'stop' what He says not to do — keeping His words!",
+          "bold": true
+        },
+        {
+          "text": "Materials: Open space, optional green/red cards",
+          "bold": false
+        }
+      ]
+    },
+    "movieViewing": {
+      "title": "Moses, God, and the Mountain",
+      "description": "TBTMS story video — God gives His people the commandments at Mount Sinai (Exodus 19–20). A great recap as we finish all Ten Words.",
+      "duration": "4:43",
+      "youtubeUrl": "https://www.youtube.com/watch?v=rMjLA9NIj98"
+    }
+  },
+  "outdoor": {
+    "alternative": {
+      "title": "🔍 Honest Hearts Treasure Hunt",
+      "description": [
+        {
+          "text": "Before kids arrive, hide 'treasures' (small tokens) around the area. Give each kid a color; they may only collect tokens of THEIR color.",
+          "bold": false
+        },
+        {
+          "text": "Rule: If you find a token that isn't your color, leave it — practicing 'do not steal' and 'do not covet' what belongs to someone else.",
+          "bold": false
+        },
+        {
+          "text": "Twist: At a whistle, everyone returns to base and shares one token they're thankful for (a thankful heart beats a jealous one!).",
+          "bold": false
+        },
+        {
+          "text": "Finish: Count tokens together — everyone gets a treat, showing God provides for all of us.",
+          "bold": false
+        },
+        {
+          "text": "Materials: Colored tokens or beads, small bags, a whistle",
+          "bold": false
+        }
+      ]
+    },
+    "tip": "⚖️ The last five commandments are all about loving the people around us. Help kids see that being honest, kind, and content is how God's people shine — obeying God's words in the small things too."
+  },
+  "outputFilename": "Week39_Moses_TenCommandments2.pptx"
+}

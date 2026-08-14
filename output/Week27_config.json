@@ -1,0 +1,122 @@
+{
+  "weekNumber": 27,
+  "activity": {
+    "title": "Pharaoh's Dream Challenge",
+    "rolePlayScript": [
+      {
+        "direction": true,
+        "text": "Scene: Pharaoh's throne room in Egypt. Pharaoh sits on his throne looking troubled. Magicians and wise men stand nearby."
+      },
+      {
+        "role": "Narrator"
+      },
+      {
+        "text": "Pharaoh had two strange dreams that no one in all of Egypt could explain.\n"
+      },
+      {
+        "role": "Pharaoh"
+      },
+      {
+        "text": "I had the wildest dreams! Seven fat cows came out of the river — then seven skinny cows came and ate them up! And seven big ears of grain were swallowed by seven tiny ones! What does it MEAN?\n"
+      },
+      {
+        "role": "Magician 1"
+      },
+      {
+        "text": "Um... I have no idea, your majesty.\n"
+      },
+      {
+        "role": "Magician 2"
+      },
+      {
+        "text": "Me neither. This is beyond us!\n"
+      },
+      {
+        "direction": true,
+        "text": "The Cupbearer steps forward nervously."
+      },
+      {
+        "role": "Cupbearer"
+      },
+      {
+        "text": "Your majesty! I just remembered something. When I was in prison, there was a Hebrew man named Joseph. He interpreted my dream — and everything happened exactly as he said!\n"
+      },
+      {
+        "role": "Pharaoh"
+      },
+      {
+        "text": "Bring him to me at once!\n"
+      },
+      {
+        "direction": true,
+        "text": "Joseph is brought out of prison. He cleans up and changes his clothes, then enters and bows before Pharaoh."
+      },
+      {
+        "role": "Pharaoh"
+      },
+      {
+        "text": "Joseph, I hear you can interpret dreams. No one else can explain mine.\n"
+      },
+      {
+        "role": "Joseph"
+      },
+      {
+        "text": "It is not me, your majesty — but God will give you the answer you need!\n"
+      },
+      {
+        "direction": true,
+        "text": "Pharaoh describes both dreams. Joseph listens carefully, then speaks with confidence."
+      },
+      {
+        "role": "Joseph"
+      },
+      {
+        "text": "Both dreams mean the same thing! God is showing you what He is about to do. Seven fat cows and seven full ears of grain — seven years of great harvest are coming! Seven skinny cows and seven empty ears — seven years of terrible famine will follow. God is warning you so you can prepare!\n"
+      },
+      {
+        "role": "Pharaoh"
+      },
+      {
+        "text": "Seven years of abundance... then seven years of famine? So what should I do?\n"
+      },
+      {
+        "role": "Joseph"
+      },
+      {
+        "text": "Find a wise man and put him in charge of all of Egypt. Collect one-fifth of all the harvest during the seven good years and store it up. Then when the famine comes, the people will have food and will not starve!\n"
+      },
+      {
+        "role": "Narrator"
+      },
+      {
+        "text": "Pharaoh and all his servants were amazed. Where else could they find someone with such wisdom?\n"
+      },
+      {
+        "role": "Pharaoh"
+      },
+      {
+        "text": "Since God has shown you all this, there is no one as discerning and wise as you. You will be in charge of my house — only my throne will be greater than yours! I put you in charge of all the land of Egypt!\n"
+      },
+      {
+        "direction": true,
+        "text": "Pharaoh places his signet ring on Joseph's finger, dresses him in fine linen robes, and puts a gold chain around his neck."
+      },
+      {
+        "role": "Joseph"
+      },
+      {
+        "text": "13 years ago I was a slave. Then a prisoner. But God was with me the whole time — and His plan was greater than anything I could have imagined!\n"
+      },
+      {
+        "direction": true,
+        "text": "All kids together:"
+      },
+      {
+        "role": "Everyone"
+      },
+      {
+        "text": "Even when life is hard, God has a plan! Trust Him, don't give up — because what He has for you is greater than you can imagine!"
+      }
+    ]
+  }
+}

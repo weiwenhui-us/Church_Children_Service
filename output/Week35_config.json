@@ -1,0 +1,367 @@
+{
+  "weekNumber": 35,
+  "level": "intermediate",
+  "block": 4,
+  "title": {
+    "topic": "The Exodus from Egypt—\nCrossing the Red Sea",
+    "scripture": "Exodus 13:20—14:31",
+    "point": "We can trust in the faithful God, who cares for His people and fulfills His promises — even when things look impossible!"
+  },
+  "thisWeekSong": {
+    "title": "God Began to Deliver His People",
+    "source": "Sing about Exodus  |  TheBibleTellsMeSo.com",
+    "youtubeUrl": "https://www.youtube.com/watch?v=9tcWtdRSqIg",
+    "lyricsCentered": [
+      {
+        "text": "♪  This Week's Song — God Began to Deliver His People",
+        "bold": true
+      },
+      {
+        "text": "Sing about Exodus  |  TheBibleTellsMeSo.com",
+        "bold": false
+      },
+      {
+        "text": "God began to deliver\nHis people Israel\nout of Egypt.\nThrough Moses and Aaron\nGod had heard Israel's cry.\n\nMoses spoke unto Pharaoh\nto let God's people go,\nthen God sent plagues to Egypt\nwhen Pharaoh answered no.\n\n🎵 TheBibleTellsMeSo.com — YouTube (2:23)",
+        "bold": false
+      }
+    ]
+  },
+  "lastWeekSong": {
+    "title": "We Were Slaves, But Now We're Free",
+    "source": "Moses, Volume Two  |  TheBibleTellsMeSo.com",
+    "youtubeUrl": "https://www.youtube.com/watch?v=K5E1ltBPl90",
+    "lyrics": [
+      {
+        "text": "♪  Last Week's Song — We Were Slaves, But Now We're Free",
+        "bold": true
+      },
+      {
+        "text": "Moses, Volume Two  |  TheBibleTellsMeSo.com\n\nWe were slaves, but now we're free!\nWe were slaves, but now we're free!\nGod's firstborn son is Israel,\nThe Lord said, \"Let My people go!\"\n\nBut Pharaoh would not listen,\nSo the firstborn all were slain.\nBut Israel was saved that night\nBy the blood of the Passover lamb.\n\n🎵 TheBibleTellsMeSo.com — YouTube (1:44)",
+        "bold": false
+      }
+    ],
+    "lyricsLeft": [],
+    "lyricsRight": []
+  },
+  "lastWeekReview": {
+    "weekNumber": 34,
+    "title": "The Exodus from Egypt—the Passover",
+    "scripture": "Exodus 12—13",
+    "memoryVerse": "Proverbs 19:20",
+    "bullets": [
+      "God had a very exact plan for the Passover — every step was important!",
+      "Each family chose a perfect lamb, roasted it with bitter herbs and unleavened bread.",
+      "They painted the lamb's blood on the doorpost using a hyssop branch.",
+      "They ate dressed and ready to go — sandals on, staff in hand!",
+      "At midnight, every firstborn in Egypt died — but houses with blood on the doorpost were PASSED OVER.",
+      "Pharaoh finally said GO! The Israelites were FREE after 400 years of slavery!"
+    ],
+    "discussion": "📖  Why was it so important to follow God's plan exactly? What would have happened if they skipped the blood on the doorpost?",
+    "verseQuote": "\"Listen to counsel and receive instruction, that you may be wise at the end of your days.\" — Proverbs 19:20"
+  },
+  "lesson": {
+    "lessonUrl": "https://children.churchinanaheim.org/intermediate-level-block-4-week-35.html",
+    "pages": [
+      {
+        "kidsContent": [
+          {
+            "text": "God Led the Way!",
+            "bold": true,
+            "color": "4A90D9"
+          },
+          {
+            "text": "The Israelites were finally free! But how would they find their way? God Himself led them!",
+            "bold": false
+          },
+          {
+            "text": "During the day, God went before them in a PILLAR OF CLOUD. At night, He was in a PILLAR OF FIRE to give them light. They didn't need a map — God was always right there leading the way!",
+            "bold": false
+          },
+          {
+            "text": "But back in Egypt, Pharaoh changed his mind AGAIN! He gathered all his chariots, horsemen, and army to chase after the Israelites.",
+            "bold": false
+          },
+          {
+            "text": "When the Israelites saw Pharaoh's army coming, they were terrified! They were trapped — the sea in front, the army behind!",
+            "bold": false
+          },
+          {
+            "text": "They cried out to Moses: 'Why did you bring us out here to die?!' They had forgotten all the amazing things God had done for them!",
+            "bold": false
+          },
+          {
+            "text": "But Moses said: 'Do not be afraid! Stand still and see — Jehovah will fight for you!'",
+            "bold": true,
+            "color": "E8725A"
+          }
+        ],
+        "image": {
+          "path": "weekly/lesson_image_1.png",
+          "caption": "The pillar of cloud leads the Israelites"
+        }
+      },
+      {
+        "kidsContent": [
+          {
+            "text": "The Red Sea Parts!",
+            "bold": true,
+            "color": "4A90D9"
+          },
+          {
+            "text": "God moved the pillar of cloud to stand BETWEEN the Israelites and the Egyptians — the Egyptians couldn't see them at all!",
+            "bold": false
+          },
+          {
+            "text": "Then Moses stretched out his hand over the sea. God sent a strong wind that blew ALL NIGHT, parting the waters! The sea stood up like WALLS on each side, and the ground between was DRY!",
+            "bold": false
+          },
+          {
+            "text": "The Israelites walked right through on dry ground — with walls of water towering on both sides!",
+            "bold": false
+          },
+          {
+            "text": "The Egyptians chased after them into the sea. But God confused them — their chariot wheels got stuck! When Moses stretched out his hand again, the waters crashed back and covered the entire army.",
+            "bold": false
+          },
+          {
+            "text": "Not ONE Egyptian was left. But every single Israelite was safe on the other side!",
+            "bold": false
+          },
+          {
+            "text": "🌟 God is faithful! Even when things look impossible — sea in front, army behind — God always makes a way. We can trust Him with all our heart!",
+            "bold": true,
+            "color": "E8725A"
+          }
+        ],
+        "image": {
+          "path": "weekly/lesson_image_2.png",
+          "caption": "The Israelites walk through the parted Red Sea"
+        }
+      }
+    ],
+    "practicePoint": "This week, when you face something that seems impossible or scary, remember: God is faithful and He will make a way! Trust Him and share your experience next week.",
+    "teacherScripture": "Exodus 13:20—14:31"
+  },
+  "memoryVerse": {
+    "reference": "Proverbs 3:5",
+    "text": "Trust in Jehovah with all your heart…",
+    "application": "The Israelites were terrified when they saw Pharaoh's army — but God had a plan! He parted the Red Sea and saved them. When we trust in Jehovah with all our heart, He will always take care of us, even when things look impossible."
+  },
+  "activity": {
+    "title": "🌊 Red Sea Trust Challenge",
+    "duration": "15-20 min",
+    "parts": [
+      {
+        "text": "Materials: Blue fabric or towels (for 'sea walls'), blindfolds, cones",
+        "bold": true
+      },
+      {
+        "text": "Setup: Create a narrow path between two rows of blue fabric — this is the parted Red Sea!",
+        "bold": false
+      },
+      {
+        "text": "Round 1: Kids walk through the 'sea' path with eyes open. Easy!",
+        "bold": true
+      },
+      {
+        "text": "Round 2: Kids are blindfolded. A partner guides them through using ONLY their voice — 'left', 'right', 'straight ahead'. They must TRUST their guide!",
+        "bold": false
+      },
+      {
+        "text": "Round 3: Add obstacles (cones) in the path. The guide must direct them around the obstacles while blindfolded.",
+        "bold": true
+      },
+      {
+        "text": "Discussion: How did it feel to walk blindfolded? Did you trust your guide? That's how the Israelites had to trust God — they couldn't see what was ahead!",
+        "bold": false
+      },
+      {
+        "text": "📖 Connection: Trusting God is like walking through the Red Sea — we can't always see the way, but He is always leading us!",
+        "bold": true
+      }
+    ],
+    "rolePlayScript": [
+      {
+        "direction": true,
+        "text": "Scene: The edge of the Red Sea. The Israelites are camped. Suddenly, dust rises in the distance — Pharaoh's army is coming!"
+      },
+      {
+        "role": "Narrator"
+      },
+      {
+        "text": "The Israelites had left Egypt! God led them with a pillar of cloud by day and a pillar of fire by night. But back in Egypt, Pharaoh changed his mind...\n"
+      },
+      {
+        "role": "Pharaoh"
+      },
+      {
+        "text": "What have we done?! We let our slaves go! Get my chariots — ALL of them! We're bringing them back!\n"
+      },
+      {
+        "direction": true,
+        "text": "The Israelites see the army approaching. They panic!"
+      },
+      {
+        "role": "Israelite 1"
+      },
+      {
+        "text": "Look! Pharaoh's army is coming! We're TRAPPED — the sea is in front of us!\n"
+      },
+      {
+        "role": "Israelite 2"
+      },
+      {
+        "text": "Moses, why did you bring us out here to DIE?! We should have stayed in Egypt!\n"
+      },
+      {
+        "role": "Moses"
+      },
+      {
+        "text": "Do NOT be afraid! Stand still and SEE — Jehovah will fight for you today!\n"
+      },
+      {
+        "direction": true,
+        "text": "God moves the pillar of cloud between the Israelites and the Egyptians. Moses stretches his hand over the sea."
+      },
+      {
+        "role": "Narrator"
+      },
+      {
+        "text": "God sent a strong wind that blew ALL NIGHT. The sea parted! The water stood up like WALLS on each side, and the ground was completely DRY!\n"
+      },
+      {
+        "role": "Israelite 1"
+      },
+      {
+        "text": "The sea... it SPLIT OPEN! I can see dry ground!\n"
+      },
+      {
+        "role": "Israelite 2"
+      },
+      {
+        "text": "The water is standing up like walls! How is this possible?!\n"
+      },
+      {
+        "role": "Moses"
+      },
+      {
+        "text": "GO! Walk through on the dry ground! Trust in Jehovah!\n"
+      },
+      {
+        "direction": true,
+        "text": "The Israelites walk through. The Egyptians chase after them into the sea."
+      },
+      {
+        "role": "Narrator"
+      },
+      {
+        "text": "The Egyptians followed — but God confused them! Their chariot wheels got stuck! When Moses stretched his hand again, the waters crashed back. Not ONE Egyptian was left. But every single Israelite was safe!\n"
+      },
+      {
+        "direction": true,
+        "text": "All kids together:"
+      },
+      {
+        "role": "Everyone"
+      },
+      {
+        "text": "Even when things look impossible — sea in front, army behind — God ALWAYS makes a way! We can trust in Jehovah with all our heart!"
+      }
+    ]
+  },
+  "gym": {
+    "optionA": {
+      "title": "🏃 Red Sea Relay",
+      "description": [
+        {
+          "text": "Setup: Two teams line up. Two leaders hold long fabric pieces ('sea walls') in the middle of the gym.",
+          "bold": false
+        },
+        {
+          "text": "When the leader shouts 'STRETCH OUT YOUR HAND!' — the sea walls part (leaders pull fabric apart).",
+          "bold": false
+        },
+        {
+          "text": "One runner from each team races through the 'sea' to the other side and tags the next runner.",
+          "bold": false
+        },
+        {
+          "text": "Twist: After all runners are through, the leader shouts 'THE SEA RETURNS!' — the walls close. Dramatic!",
+          "bold": false
+        },
+        {
+          "text": "📖 Connection: God parted the sea for His people — and closed it on the Egyptians!",
+          "bold": true
+        },
+        {
+          "text": "Materials: Two long pieces of blue fabric, cones",
+          "bold": false
+        }
+      ]
+    },
+    "optionB": {
+      "title": "☁️ Pillar of Cloud & Fire",
+      "description": [
+        {
+          "text": "Setup: One leader is the 'Pillar' and holds a white flag (cloud/day) or red flag (fire/night).",
+          "bold": false
+        },
+        {
+          "text": "Rules: Kids follow the Pillar around the gym. When the Pillar holds the white flag — walk. Red flag — jog. Both flags — FREEZE!",
+          "bold": false
+        },
+        {
+          "text": "The Pillar changes direction randomly — kids must follow wherever it leads!",
+          "bold": false
+        },
+        {
+          "text": "If a kid doesn't follow or goes the wrong way, they're 'lost in the wilderness' — do 5 jumping jacks to rejoin.",
+          "bold": false
+        },
+        {
+          "text": "📖 Connection: God led Israel with a pillar of cloud by day and fire by night — they just had to follow!",
+          "bold": true
+        },
+        {
+          "text": "Materials: White flag, red flag (or colored paper)",
+          "bold": false
+        }
+      ]
+    },
+    "movieViewing": {
+      "title": "Escape Through the Sea",
+      "description": "TBTMS story video — Pharaoh chases the Israelites to the Red Sea, but God parts the waters and saves His people! (Exodus 14)",
+      "duration": "6:29",
+      "youtubeUrl": "https://www.youtube.com/watch?v=tIEzvEgqxXs"
+    }
+  },
+  "outdoor": {
+    "alternative": {
+      "title": "🌟 Trust Walk Adventure",
+      "description": [
+        {
+          "text": "Pair up kids. One is blindfolded (Israelite), the other is the guide (pillar of cloud).",
+          "bold": false
+        },
+        {
+          "text": "The guide leads the Israelite through an outdoor obstacle course using only voice commands.",
+          "bold": false
+        },
+        {
+          "text": "Course includes: walking around cones, stepping over ropes, and finding a 'promised land' flag at the end.",
+          "bold": false
+        },
+        {
+          "text": "Switch roles halfway! Both kids experience trusting and leading.",
+          "bold": false
+        },
+        {
+          "text": "Materials: Blindfolds, cones, ropes, small flags",
+          "bold": false
+        }
+      ]
+    },
+    "tip": "🌊 The Red Sea crossing is one of the most dramatic stories in the Bible! Help kids feel the tension — trapped between the sea and Pharaoh's army — and the relief when God made a way through."
+  },
+  "outputFilename": "Week35_Exodus_CrossingRedSea.pptx"
+}
